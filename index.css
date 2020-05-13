@@ -2,25 +2,33 @@ body {
     font-family: "Poppins", arial, sans-serif;
     font-size: 15px;
     font-weight: 400;
-    padding: 5rem 1.9rem 3rem 1.9rem; 
 }
 
 h1 {
     font-size: 1.6rem;
 }
 
-.title {}
+.slogan {
+    text-align: center;
+}
 
-.title_thin {
+.slogan_thin {
     font-weight: 200;
 }
 
-.title_semi-bold {
+.slogan_semi-bold {
     font-weight: 600;
 }
 
-.body-block {}
-
-.body-block__title {
+.app-description__paragraph {
     text-align: center;
+}
+
+.app-description {
+    padding: 5rem 0rem;
+    width: 340px;
+}
+
+.content__app-description {
+    margin: auto;   
 }
