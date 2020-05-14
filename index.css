@@ -1,4 +1,5 @@
 body {
+    color: #a9a9a9;
     font-family: "Poppins", arial, sans-serif;
     font-size: 15px;
     font-weight: 400;
@@ -9,12 +10,13 @@ h1 {
     font-size: 1.6rem;
 }
 
-.slogan_thin {
+.heading_thin {
     font-weight: 200;
 }
 
-.slogan_semi-bold {
+.heading_semi-bold {
     font-weight: 600;
+    color: #525252;
 }
 
 .app-description {
