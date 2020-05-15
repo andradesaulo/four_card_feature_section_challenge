@@ -93,3 +93,12 @@ h1 {
         width: 75%;
     }
 }
+
+.attribution {
+    text-align: center;
+    padding: 5rem 2rem;
+}
+
+.attribution__link {
+    color: #525252;
+}
